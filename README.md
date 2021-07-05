@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakhilad
+- 👋 Hi, I’m RAKHEE LAD
 - 👀 I’m interested in MATLAB Coding
 - 🎓 I’m currently studying in Instrumentation Engineering
 - 📫 How to reach me
