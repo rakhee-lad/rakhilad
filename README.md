@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakhilad
 - 👀 I’m interested in MATLAB Coding
-- 🎓 I’m currently studying Instrumentation Engineering
+- 🎓 I’m currently studying in Instrumentation Engineering
 - 📫 How to reach me
   @instagram @linkedin
 https://www.linkedin.com/in/rakhee-lad-2902a91b0
